@@ -102,7 +102,7 @@ A data analysis project exploring housing data through Python-based analysis and
 ## 🏆 Certifications
 
 - **Cybersecurity Certificate** — Coursera
-  - [Verify Credential](YOUR_CERTIFICATE_URL)
+  - [Verify Credential](https://coursera.org/share/ba2ff99d166025a097d66ce14b43be63)
 
 ---
 
