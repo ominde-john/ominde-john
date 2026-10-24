@@ -10,24 +10,23 @@
 </p>
 
 <p align="center">
-  <a href="https://noneaa.com">
-    <img src="https://img.shields.io/badge/NONEAA-Live%20Project-2563EB?style=for-the-badge" alt="NONEAA"/>
-  </a>
-  <a href="https://github.com/ominde-john?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://img.shields.io/badge/Full--Stack_Engineering-2563EB?style=for-the-badge" alt="Full-Stack Engineering"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=for-the-badge" alt="AI/ML"/>
 </p>
 
 ---
 
 ## 👨‍💻 Professional Profile
 
-Software engineer focused on full-stack application development, cybersecurity, and artificial intelligence. Experienced in developing web-based solutions, integrating backend services, working with databases, and maintaining application security.
+Software engineer specializing in full-stack application development, cybersecurity, and artificial intelligence, with a focus on building reliable, secure, and scalable software solutions.
 
-- **Full-Stack Engineering:** Responsive interfaces, backend services, APIs, database-driven applications, and system integration.
-- **Cybersecurity:** Application security, secure development practices, vulnerability awareness, access control, and infrastructure security.
-- **AI & Machine Learning:** Intelligent application integration, data processing, predictive modeling, and machine learning workflows.
-- **Software Engineering:** Version control, debugging, maintainable architecture, testing, deployment, and documentation.
+- **Full-Stack Engineering:** Frontend interfaces, backend services, APIs, databases, and application integration.
+- **Cybersecurity:** Application security, secure coding, access control, vulnerability assessment, and infrastructure protection.
+- **AI & Machine Learning:** AI application integration, data processing, predictive modeling, and machine learning workflows.
+- **Software Engineering:** Application architecture, debugging, testing, version control, deployment, and maintainable code.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -58,19 +57,18 @@ Software engineer focused on full-stack application development, cybersecurity, 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 </p>
 
-### ⚙️ Backend & API Engineering
+### ⚙️ Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
 
-### 🗄️ Databases & Data Storage
+### 🗄️ Databases & Storage
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -81,7 +79,7 @@ Software engineer focused on full-stack application development, cybersecurity, 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-### 🤖 Artificial Intelligence & Machine Learning
+### 🤖 AI, Machine Learning & Data Science
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -105,14 +103,12 @@ Software engineer focused on full-stack application development, cybersecurity, 
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap"/>
 </p>
 
-Security domains:
-- Web application security and the OWASP Top 10
-- Authentication, authorization, and access control
-- Secure coding and API security
+- Web application and API security
+- Authentication and authorization
+- Secure coding and vulnerability assessment
 - Network security and traffic analysis
-- Vulnerability assessment and security testing
-- Linux permissions, server hardening, and secrets management
-- Threat modeling, incident response, and security monitoring
+- Linux server hardening and access control
+- Threat modeling and security monitoring
 
 ### ☁️ Cloud, DevOps & Infrastructure
 
@@ -121,7 +117,6 @@ Security domains:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -130,7 +125,7 @@ Security domains:
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-### 🧪 Testing & Development Tools
+### 🧪 Testing & Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
@@ -142,37 +137,10 @@ Security domains:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏫 NONEAA — School Management Platform
-
-A school management and education platform supporting digital education workflows.
-
-- Application development and user interface engineering.
-- Backend and database integrations.
-- AI-powered assistance for education-related tasks.
-- Application security maintenance and deployment.
-
-**Live platform:** [noneaa.com](https://noneaa.com)
-
-### 🏠 Housing Price Predictor
-
-A machine learning project focused on housing price prediction and data-driven analysis.
-
-[View Repository](https://github.com/ominde-john/Housing_Price_Predictor)
-
-### 📊 Housing in Mexico
-
-A Python and Jupyter Notebook project focused on housing data analysis.
-
-[View Repository](https://github.com/ominde-john/Housing_in_Mexico)
-
----
-
 ## 🎓 Certifications
 
-- Cybersecurity — Coursera
-- Additional professional credentials: [View repositories and projects](https://github.com/ominde-john?tab=repositories)
+- **Cybersecurity Certificate** — Coursera
+- Additional verified credentials will be listed here.
 
 ---
 
