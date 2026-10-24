@@ -157,5 +157,5 @@ Software engineer specializing in full-stack application development, cybersecur
 ---
 
 <p align="center">
-  <b>Building secure software. Engineering intelligent systems. Delivering real-world solutions.</b>
+  <b>PORTFOLIO WEBSITE:(jonzjohn.com) </b>
 </p>
