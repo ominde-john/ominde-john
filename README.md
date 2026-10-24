@@ -41,7 +41,6 @@ Software engineer specializing in full-stack application development, cybersecur
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
@@ -141,7 +140,7 @@ Software engineer specializing in full-stack application development, cybersecur
 
 ## 🎓 Certifications
 
-- **Cybersecurity Certificate** — Coursera
+- [**Cybersecurity Certificate**](https://coursera.org/share/ba2ff99d166025a097d66ce14b43be63) — Coursera
 
 ---
 
